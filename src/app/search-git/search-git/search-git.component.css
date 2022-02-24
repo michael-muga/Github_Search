@@ -1,0 +1,34 @@
+.main {
+    background-color: black;
+    min-height: 100vh;
+}
+
+.search-form {
+    padding-top: 8rem;
+}
+
+.search {
+    border: 1px solid #5c326a;
+    padding: 6rem;
+    border-radius: 20px;
+    box-shadow: 6px 4px 4px #5c326a;
+}
+
+.fab {
+    font-size: 100px;
+    color: #5c326a;
+}
+
+.text-color {
+    color: rgb(85, 152, 218);
+}
+
+.button {
+    border: 2px solid #5c326a;
+    border-radius: 20px;
+}
+
+.inputSearch {
+    border: 2px solid #5c326a;
+    border-radius: 20px;
+}
