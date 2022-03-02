@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  personal_AccessToken : "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"
+  personal_AccessToken: "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"
 
 };
 
