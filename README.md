@@ -1,6 +1,4 @@
 # GithubSearch
-
-This project was generated with [PYTHON]version 3.8.
 by Michael Muga
 
 
@@ -23,10 +21,9 @@ To install or access this website you need:
 * click the link https://michael-muga.github.io/Github_Search/
 
 ## Technology Used
-* python - to develope the logic of the application
 * html - for the structure of the dom elemets
 * css - for the styling of the application
-* typescript - for the functionality of the application
+* typescript and javascript - for the functionality of the application
 
 ## License
 MIT license
