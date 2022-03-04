@@ -20,7 +20,7 @@ To install or access this website you need:
 * Either a computer with an ide and internet
 
 ### Installation Process
-* click the link 
+* click the link https://michael-muga.github.io/Github_Search/
 
 ## Technology Used
 * python - to develope the logic of the application
