@@ -19,9 +19,7 @@ export class GitSerchService {
   }
   getSearchResults(search:string) {
     let promise = new Promise((resolve, reject) => {
-      this.http
-        .get<any>(this.url + search + "?access_token'=" + environment.personal_AccessToken)
-        .toPromise()
+      this.http.get<any>(this.url + search + "?access_token'=" + environment.personal_AccessToken).toPromise()
         .then(
           (response:any) =>{ 
             this.userProfile.userName = response.login;
