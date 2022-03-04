@@ -1,27 +1,33 @@
 # GithubSearch
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.4.
+This project was generated with [PYTHON]version 3.8.
+by Michael Muga
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+# Table of content
 
-## Code scaffolding
++ [Description](#description)
++ [Installation ](#Installation)
++ [Technology Used](#technology-used)
++ [License](#License)
++ [Authors Info](#author-Info)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Description
+This is an app that allows users to access git hub repos using the valid github usernames
+## Installation
+To install or access this website you need:
 
-## Build
+* Either a computer with an ide and internet
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### Installation Process
+* click the link 
 
-## Running unit tests
+## Technology Used
+* python - to develope the logic of the application
+* html - for the structure of the dom elemets
+* css - for the styling of the application
+* typescript - for the functionality of the application
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## License
+MIT license
+copyright (c) [2022][Michael Muga]
